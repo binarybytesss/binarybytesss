@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding girl gif"/>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Gita Kolate</h1>
 <h3 align="center">💻 A passionate frontend developer from India, with a strong interest in building intelligent, user-centric web applications using modern technologies.</h3>
 
