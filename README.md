@@ -1,9 +1,20 @@
+
+<h1 align="center">Hi 👋, I'm Gita Kolate</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding girl gif"/>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+from+India;React+%7C+JavaScript+%7C+UI%2FUX;Building+Smart+Web+Applications"
+    alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    width="380" 
+    alt="Coding animation"/>
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Gita Kolate</h1>
+
 <h3 align="center">💻 A passionate frontend developer from India, with a strong interest in building intelligent, user-centric web applications using modern technologies.</h3>
 
 - 🔭 I’m currently working on **Smart Vision Attendance System**
