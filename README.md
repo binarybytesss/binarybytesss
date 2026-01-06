@@ -12,7 +12,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Gita Kolate</h1>
 
-<h3 align="center">💻 A passionate frontend developer from India, with a strong interest in building intelligent, user-centric web applications using modern technologies.</h3>
+<h3 align="center">💻 A passionate full stack developer, with a strong interest in building intelligent, user-centric web applications using modern technologies.</h3>
 
 - 🔭 I’m currently working on **Smart Vision Attendance System**
 
